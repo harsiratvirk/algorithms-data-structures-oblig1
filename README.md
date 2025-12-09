@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VjzRkYWj)
-# Compulsory Assignment 1 in DATS2300 - Algorithms and Data Structures
+# Assignment 1 in DATS2300 - Algorithms and Data Structures
 
 This assignment is a submission in Algorithms and Data Structures (in Norwegian).
 
